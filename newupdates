@@ -1,9 +1,5 @@
-- 213 error fixed
-- Fix(sql): tinyint
-- Tempfix(client/main.lua)
-- Moved Notification Event for Inventory Wipe
-- Updated all events to the new RegisterNetEvent and got rid of unneeded handlers
-- Whatsapp Messages fix
-- Update fxmanifest.lua
-- Added Discord rich
-- Added QBCore doc
+- Fix Police Job
+- RichPresent Modifier
+- Ajout Pont Cayo perico
+- Ajout voiture police et ambulance
+- Ajout Loading screen
